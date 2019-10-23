@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Клименко Сергій</title>
+    <link>https://klimenko-serj.github.io/ua/</link>
+    <description>Recent content on Клименко Сергій</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ua</language>
+    <lastBuildDate>Wed, 23 Oct 2019 17:18:09 +0300</lastBuildDate>
+    
+	<atom:link href="https://klimenko-serj.github.io/ua/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Про мене</title>
+      <link>https://klimenko-serj.github.io/ua/about/</link>
+      <pubDate>Wed, 23 Oct 2019 17:18:09 +0300</pubDate>
+      
+      <guid>https://klimenko-serj.github.io/ua/about/</guid>
+      <description>Я люблю розв&amp;rsquo;язувати складні проблеми простими засобами
+Маю досвід в створенні Web-застосунків, REST сервісів, проектуванні та розробці баз данних, програмуванні на низькому рівні, та багато іншого.
+Я люблю вивчати нові технології і вмію швидко вчитись.
+Маю досвід командної роботи та люблю працювати в команді. Якщо вам потрібен хороший командний гравець - я тут :)
+ Мови програмування (використовую для production)  Clojure / ClojureScript (3 роки) Go (1 рік) JavaScript(3 роки) C++ (5 років) Java/Scala (3 роки)   Я люблю Clojure та ClojureScript за їх простоту (simplicity).</description>
+    </item>
+    
+  </channel>
+</rss>
