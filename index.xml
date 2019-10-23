@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KLYMENKO SERHII</title>
+    <title>Klymenko Serhii</title>
     <link>https://klimenko-serj.github.io/</link>
-    <description>Recent content on KLYMENKO SERHII</description>
+    <description>Recent content on Klymenko Serhii</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2019 14:21:12 +0300</lastBuildDate>
     
 	<atom:link href="https://klimenko-serj.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://klimenko-serj.github.io/about/</link>
+      <pubDate>Wed, 23 Oct 2019 14:21:12 +0300</pubDate>
+      
+      <guid>https://klimenko-serj.github.io/about/</guid>
+      <description>I like to solve difficult problems with simple tools.
+I have experience in building Web Applications, REST Services, creating Databases, low-level programming, etc&amp;hellip;
+I like to learn new technologies.
+I have experience of team work and I really like it. If you need a good team player - I&amp;rsquo;m here :)
+ Programming Languages (I use it in production):  Clojure / ClojureScript (3 years) Go (1 year) JavaScript(3 years) C++ (5 years) Java/Scala (3 years)   I like Clojure and ClojureScript for its simplicity.</description>
+    </item>
     
   </channel>
 </rss>
